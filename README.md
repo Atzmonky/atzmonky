@@ -3,10 +3,6 @@
 
 
 
-
-
-
-
 ## Tools and Languages
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat)
 
