@@ -1,6 +1,12 @@
 ## Certifications
 [<img alt="snowflake badge" width="150" src="https://miro.medium.com/v2/resize:fit:302/0*rSN2PYxEHCVi-_Es.png"/>]
 
+
+
+
+
+
+
 ## Tools and Languages
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat)
 
