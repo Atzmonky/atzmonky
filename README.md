@@ -3,31 +3,20 @@
 
 
 
-## Skills
-![macOS](https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat)
-
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?logo=Airbyte&logoColor=white&style=flat)
-
-![dbtCore](https://img.shields.io/badge/dbtCore-FF694B?logo=DBT&logoColor=white&style=flat) 
-![dbtCloud](https://img.shields.io/badge/dbtCloud-FF694B?logo=DBT&logoColor=white&style=flat)
-	
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat)
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat)
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=Snowflake&logoColor=white&style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=flat)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
 
 
-### Socials
-
+## Socials
 <p align="left"> <a href="https://www.github.com/atzmonky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atzmon-ben-binyamin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,git,github,githubactions,gitlab,py,r,vscode,flutter&perline=5)](https://skillicons.dev)
+
+![macOS](https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?logo=Airbyte&logoColor=white&style=flat)
+![dbtCore](https://img.shields.io/badge/dbtCore-FF694B?logo=DBT&logoColor=white&style=flat) 
+![dbtCloud](https://img.shields.io/badge/dbtCloud-FF694B?logo=DBT&logoColor=white&style=flat)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=Snowflake&logoColor=white&style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=flat)
 
 <b>My GitHub Stats</b>
 
