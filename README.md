@@ -1,5 +1,6 @@
-Atzmon Ben Binyamin 
-**<span style="color:#00ffff">Analytics Engineering</span>**
+Atzmon Ben Binyamin
+
+<span style="color:#00ffff">Analytics Engineering</span>
 ---------------------
 
 I am currently working for The Information Lab Netherlands helping companies transition into modern data stack solutions.
