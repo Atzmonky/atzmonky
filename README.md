@@ -25,13 +25,14 @@ I am currently working for The Information Lab Netherlands helping companies tra
 [<img alt="snowflake badge" width="150" src="https://miro.medium.com/v2/resize:fit:302/0*rSN2PYxEHCVi-_Es.png"/>]
 
 
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/atzmonky"><img src="https://github-readme-stats.vercel.app/api?username=atzmonky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atzmonky's GitHub stats" /></a>
 
 <a href="http://www.github.com/atzmonky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atzmonky&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 <!--
 **Atzmonky/atzmonky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
