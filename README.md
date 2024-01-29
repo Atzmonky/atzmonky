@@ -13,6 +13,7 @@ I am currently working for The Information Lab Netherlands helping companies tra
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,git,github,githubactions,gitlab,py,r,vscode&perline=5)](https://skillicons.dev)
+
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat)
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?logo=Airbyte&logoColor=white&style=flat)
 ![dbtCore](https://img.shields.io/badge/dbtCore-FF694B?logo=DBT&logoColor=white&style=flat) 
