@@ -1,9 +1,3 @@
-## Certifications
-[<img alt="snowflake badge" width="150" src="https://miro.medium.com/v2/resize:fit:302/0*rSN2PYxEHCVi-_Es.png"/>]
-
-
-
-
 
 ## Socials
 <p align="left"> <a href="https://www.github.com/atzmonky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atzmon-ben-binyamin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
@@ -16,6 +10,10 @@
 ![dbtCloud](https://img.shields.io/badge/dbtCloud-FF694B?logo=DBT&logoColor=white&style=flat)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=Snowflake&logoColor=white&style=flat)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=flat)
+
+## Certifications
+[<img alt="snowflake badge" width="150" src="https://miro.medium.com/v2/resize:fit:302/0*rSN2PYxEHCVi-_Es.png"/>]
+
 
 <b>My GitHub Stats</b>
 
