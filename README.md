@@ -1,4 +1,4 @@
-Atzmon Ben Binyamin <Analytics Engineering>
+Atzmon Ben Binyamin **Analytics Engineering
 ---------------------
 
 I am currently working for The Information Lab Netherlands helping companies transition into modern data stack solutions.
