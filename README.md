@@ -1,5 +1,6 @@
 Atzmon Ben Binyamin ![image](https://github.com/Atzmonky/atzmonky/assets/17711876/f543660c-5981-4fb1-8030-6626c30d4a4f)
  <span style="color:#00ffff">Analytics Engineering</span>
+ <font color="#00ffff">Analytics Engineering</font>
 ---------------------
 
 I am currently working for The Information Lab Netherlands helping companies transition into modern data stack solutions.
